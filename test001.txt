@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test 001 add commit push
 
 test 002 add commit
@@ -8,6 +9,9 @@ test 003 add
 test 004 add commit
 
 test 005 add commit push
+=======
+test001
+>>>>>>> parent of 4ccf36f... 1
 =======
 test001
 >>>>>>> parent of 4ccf36f... 1
