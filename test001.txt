@@ -1,36 +1,3 @@
+test001
 
-C:\Users\IES27-9-04\programming>dir
- ドライブ C のボリューム ラベルは OS です
- ボリューム シリアル番号は 58B8-5996 です
-
- C:\Users\IES27-9-04\programming のディレクトリ
-
-2017/12/19  14:04    <DIR>          .
-2017/12/19  14:04    <DIR>          ..
-2017/12/19  14:04                 7 test001.txt
-               1 個のファイル                   7 バイト
-               2 個のディレクトリ  88,941,322,240 バイトの空き領域
-
-C:\Users\IES27-9-04\programming>git add "test001.txt"
-
-C:\Users\IES27-9-04\programming>git status
-On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-        new file:   test001.txt
-
-
-C:\Users\IES27-9-04\programming>git commit -m "add new file test001"
-[master f4c96ef] add new file test001
- 1 file changed, 1 insertion(+)
- create mode 100644 test001.txt
-
-C:\Users\IES27-9-04\programming>git push origin master
-Counting objects: 3, done.
-Writing objects: 100% (3/3), 252 bytes | 252.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/ikadroka/0001test.git
-   be6ce41..f4c96ef  master -> master
-
-C:\Users\IES27-9-04\programming>
+change
